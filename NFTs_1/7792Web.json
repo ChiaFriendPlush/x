@@ -1,0 +1,50 @@
+{
+  "format": "CHIP-0007",
+  "name": "Chia Friends PLUSH #7792",
+  "description": "10,000 plush NFTs on Chia, from Chia.",
+  "sensitive_content": false,
+  "collection": {
+    "name": "Chia Friends PLUSH",
+    "id": "c893dae5-68fb-41c2-9fd0-0035e5dd4e93",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "10,000 plush NFTs on Chia, from Chia."
+      },
+      {
+        "type": "twitter",
+        "value": "@chia_friends"
+      },
+      {
+        "type": "website",
+        "value": "https://www.chiafriends.xyz/"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/ChiaFriendPlush/ipfs/refs/heads/main/banner.png"
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/ChiaFriendPlush/ipfs/refs/heads/main/icon.png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Broccoli (Gold)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ooo (Gold)"
+    }
+  ]
+}
